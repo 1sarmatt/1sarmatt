@@ -2,7 +2,7 @@
   
 # Hello!
 
-### 💻 Developer | QA engineer
+### 💻 Developer 
 
 
 [![Telegram](https://img.icons8.com/color/36/000000/telegram-app.png)](https://t.me/lutfullin_sarmat)
@@ -31,8 +31,8 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=selenium&logoColor=43B02A)
 ![JMeter](https://img.shields.io/badge/-JMeter-090909?style=for-the-badge&logo=apachejmeter&logoColor=D22128)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=0052CC)
-
-
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![Grafana](https://img.shields.io/badge/-Grafana-090909?style=for-the-badge&logo=grafana&logoColor=F46800)
 
 
 </div>
