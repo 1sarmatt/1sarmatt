@@ -2,7 +2,7 @@
   
 # Hello!
 
-### 💻 Developer 
+### 💻 I am Sarmat
 
 
 [![Telegram](https://img.icons8.com/color/36/000000/telegram-app.png)](https://t.me/lutfullin_sarmat)
@@ -14,7 +14,7 @@
 
 - 🎓 Innopolis University Student (last year)
 
-- https://511sarmat.netlify.app/
+
 
 
 
