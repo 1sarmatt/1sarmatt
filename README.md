@@ -1,8 +1,8 @@
 <div align="center">
   
-# Hello, world!
+# Hello, world 💻
 
-### 💻 
+### 
 
 
 [![Telegram](https://img.icons8.com/color/36/000000/telegram-app.png)](https://t.me/lutfullin_sarmat)
@@ -19,10 +19,6 @@
 
 
 ### Languages and Tools:
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=E9D54D)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=336791)
